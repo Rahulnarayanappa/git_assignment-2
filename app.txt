@@ -1,1 +1,3 @@
 this app.txt file to test.
+git is a versioncontrol toll to keep track the files and directories.
+git is for local repository and github is for host repo.
