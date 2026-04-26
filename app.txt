@@ -1,4 +1,6 @@
 this app.txt file to test.
 git is a versioncontrol toll to keep track the files and directories.
 git is for local repository and github is for host repo.
-this is main branch
+the next two lines is to check merge conflict
+merge conflict arises when editing a file on same line in two different branches.
+
