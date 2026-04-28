@@ -1,4 +1,4 @@
 this app.txt file to test.
 git is a versioncontrol toll to keep track the files and directories.
 
-this line is to test merge conflict.  
+this line is to test merge conflict.  adding newline
