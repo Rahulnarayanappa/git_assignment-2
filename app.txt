@@ -2,4 +2,3 @@ this app.txt file to test.
 git is a versioncontrol toll to keep track the files and directories.
 for PR process
 
-
